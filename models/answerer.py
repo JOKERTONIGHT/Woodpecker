@@ -1,5 +1,4 @@
 import os
-#os.environ["CUDA_VISIBLE_DEVICES"]="6"
 import torch
 from PIL import Image
 from transformers import Blip2Processor, Blip2ForConditionalGeneration
