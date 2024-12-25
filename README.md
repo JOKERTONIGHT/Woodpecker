@@ -37,7 +37,7 @@ python -m spacy download en_core_web_sm
 
 **1. 推理**
 
-要基于图像和MLLM的输出文本进行修正，请运行下面的代码：
+要基于图像和MLLM的输出文本进行修正，请运行下面的代码（修改为你的相应文件路径和OPENAI的api-key）：
 
 ```Shell
 python inference.py \
@@ -65,6 +65,8 @@ CUDA_VISIBLE_DEVICES=0,1 python gradio_demo.py
 这里我们将修正器组件置于编号为0的 GPU 上， mPLUG-Owl 置于编号为1的GPU上。
 
 ## 📑 引用
+
+引用本工作：
 
 ```
 @article{yin2024woodpecker,
