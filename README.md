@@ -55,7 +55,7 @@ python inference.py \
 
 **2. 建立Demo**
 
-我们使用 mPLUG-Owl 作为默认MLLM进行实验。如果你想要复制在线DEMO，请克隆 [此项目](https://github.com/X-PLUG/mPLUG-Owl) 并在 https://github.com/BradyFU/Woodpecker/blob/e3fcac307cc5ff5a3dc079d9a94b924ebcdc2531/gradio_demo.py#L7 和  https://github.com/BradyFU/Woodpecker/blob/e3fcac307cc5ff5a3dc079d9a94b924ebcdc2531/gradio_demo.py#L35-L36 修改相关变量
+我们使用 mPLUG-Owl 作为默认MLLM进行实验。如果你想要复制在线DEMO，请克隆 [此项目](https://github.com/X-PLUG/mPLUG-Owl) 并在 https://github.com/JOKERTONIGHT/Woodpecker/blob/e3fcac307cc5ff5a3dc079d9a94b924ebcdc2531/gradio_demo.py#L7 和  https://github.com/JOKERTONIGHT/Woodpecker/blob/e3fcac307cc5ff5a3dc079d9a94b924ebcdc2531/gradio_demo.py#L35-L36 修改相关变量
 
 运行下面的指令即可：
 
